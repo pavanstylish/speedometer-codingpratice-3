@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.main {
+  background-color: black;
+  display: flex;
+  color: white;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 10px;
+}
+.heading {
+  color: white;
+}
+.image {
+  height: 50%;
+  width: 50%;
+}
+.button1 {
+  background-color: blue;
+  margin: 10px;
+  color: white;
+}
+.button_sec {
+  margin: 10px;
+}
